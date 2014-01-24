@@ -1,4 +1,5 @@
 #+TITLE:     Alice's Adventures
+#+AUTHOR: Peter Salazar
 #+OPTIONS:   H:6 num:nil toc:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 # Thanks to Greg Franco for Tocify
 #+BEGIN_HTML              
